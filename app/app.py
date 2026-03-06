@@ -1,3 +1,3 @@
-from tercerReto import saludo
+from tercerRepo import saludo
 
 print(saludo("Platzi"))
